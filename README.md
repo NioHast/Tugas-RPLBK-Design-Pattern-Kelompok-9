@@ -11,7 +11,7 @@ Ini adalah website pencatatan tugas sederhana yang dibuat menggunakan Python dan
 
 1. Buka terminal
 
-2. Install library Streamlit:
+2. Install library streamlit:
    ```
    pip install Streamlit
    ```
