@@ -1,6 +1,6 @@
 # Website Pencatatan Tugas
 
-Ini adalah website pencatatan tugas sederhana yang dibuat menggunakan Python dan library Streamlit. 
+Ini adalah website pencatatan tugas sederhana yang dibuat menggunakan Python dan library Streamlit. Source code ini dibuat dengan menerapkan 2 design pattern, yaitu singleton pattern dan observer pattern.
 
 ## Fitur
 - Tambah tugas dengan deadline
