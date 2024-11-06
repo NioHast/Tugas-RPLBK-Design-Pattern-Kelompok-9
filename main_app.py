@@ -2,6 +2,10 @@ import streamlit as st
 from datetime import datetime
 from task_manager import Task, TaskManager, TaskObserver
 
+st.set_page_config(
+    page_title="Pencatatan Tugas",
+)
+
 st.title("Website Pencatatan Tugas")
 menu_choice = st.sidebar.radio("Pilih opsi:", ["Tambah Tugas", "Lihat & Hapus Tugas"])
 task_manager = TaskManager()
